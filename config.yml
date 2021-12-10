@@ -10,7 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-214947804
 
 minify:
     disableXML: true
@@ -75,10 +75,13 @@ params:
         Content: >
             All things related to data science and machine learning at [Baania](https://baania.com)
     socialIcons:
+        - name: github
+          url: "https://github.com/baania"
         - name: other
           url: "https://baania.com"
-        - name: RsS
+        - name: rss
           url: "index.xml"
+
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
@@ -90,9 +93,9 @@ params:
     #     icon: icon.png
     #     iconHeight: 35
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+        google:
+            SiteVerificationTag: "G-DEXWB9QTVN"
 
     assets:
         favicon: "https://raw.githubusercontent.com/baania/baania.github.io/master/static/favicon.ico"
