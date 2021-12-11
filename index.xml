@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baania Engineering</title>
+    <link>https://blog.baania.com/</link>
+    <description>Recent content on Baania Engineering</description>
+    <image>
+      <url>https://blog.baania.com/papermod-cover.png</url>
+      <link>https://blog.baania.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Dec 2021 20:11:12 +0700</lastBuildDate><atom:link href="https://blog.baania.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secrets management with SOPS, AWS SSM and Terraform</title>
+      <link>https://blog.baania.com/posts/secrets-management-with-sops-aws-ssm-terraform/</link>
+      <pubDate>Fri, 10 Dec 2021 20:11:12 +0700</pubDate>
+      
+      <guid>https://blog.baania.com/posts/secrets-management-with-sops-aws-ssm-terraform/</guid>
+      <description>At Baania, we use SOPS to check in encrypted secrets into git repos. This solves plaintext credentials in version control. However, say, you have 5 repos using the same database credentials, rotating secrets means you have to go into each repo and update the SOPS credentials manually.
+Also worth nothing that, for GitHub actions, authenticating AWS means you have to add repo secrets. This means for all the repos you have CI enabled, you have to populate the repo secrets with AWS credentials.</description>
+    </item>
+    
+    <item>
+      <title>Impute pipelines</title>
+      <link>https://blog.baania.com/posts/impute-pipelines/</link>
+      <pubDate>Wed, 08 Dec 2021 17:00:00 +0000</pubDate>
+      
+      <guid>https://blog.baania.com/posts/impute-pipelines/</guid>
+      <description>Imagine having a dataset that you need to use for training a prediction model, but some of the features are missing. The good news is you don&amp;rsquo;t need to throw some data away, just have to impute them.
+Imputation, essentially means &amp;ldquo;replacing missing data with substituted values.&amp;rdquo; Good imputation can improve your model performance, but bad ones can cause a catastrophe. Thus, it should be done carefully and thoughtfully. The process can be complex at times, luckily we have a few python modules that can make the process easier!</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Baania Engineering</title>
+    <link>https://blog.baania.com/tags/</link>
+    <description>Recent content in Tags on Baania Engineering</description>
+    <image>
+      <url>https://blog.baania.com/papermod-cover.png</url>
+      <link>https://blog.baania.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Dec 2021 20:11:12 +0700</lastBuildDate><atom:link href="https://blog.baania.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://blog.baania.com/tags/devops/</link>
+      <pubDate>Fri, 10 Dec 2021 20:11:12 +0700</pubDate>
+      
+      <guid>https://blog.baania.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://blog.baania.com/tags/github/</link>
+      <pubDate>Fri, 10 Dec 2021 20:11:12 +0700</pubDate>
+      
+      <guid>https://blog.baania.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
+      <link>https://blog.baania.com/tags/data-science/</link>
+      <pubDate>Wed, 08 Dec 2021 17:00:00 +0000</pubDate>
+      
+      <guid>https://blog.baania.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
