@@ -1,6 +1,6 @@
 ---
 title: Secrets management with SOPS, AWS SSM and Terraform
-date: 2021-11-30T20:11:12+07:00
+date: 2021-12-10T20:11:12+07:00
 draft: false
 toc: true
 images:

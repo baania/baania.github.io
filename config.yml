@@ -9,8 +9,8 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-enableEmoji: true
-googleAnalytics: UA-214947804
+enableEmoji: false
+googleAnalytics: G-K0JRY8QCDB
 
 minify:
     disableXML: true
@@ -93,9 +93,9 @@ params:
     #     icon: icon.png
     #     iconHeight: 35
 
-    analytics:
-        google:
-            SiteVerificationTag: "G-DEXWB9QTVN"
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: ""
 
     assets:
         favicon: "https://raw.githubusercontent.com/baania/baania.github.io/master/static/favicon.ico"
